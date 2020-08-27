@@ -1,0 +1,4 @@
+.htaccess
+vendor/
+MapasSDK/
+public/uploads/
