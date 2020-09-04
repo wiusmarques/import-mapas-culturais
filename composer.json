@@ -1,12 +1,5 @@
 {
-    "name": "siapp/mapas-sdk",
     "require": {
-        "symfony/var-dumper": "^5.1"
-    },
-    "authors": [
-        {
-            "name": "Wiusmarques Moreira",
-            "email": "wiusmarques.dev@outlook.com"
-        }
-    ]
+        "illuminate/database": "^7.27"
+    }
 }
